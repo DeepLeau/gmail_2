@@ -66,7 +66,7 @@ export function Hero() {
           style={{ fontFamily: 'var(--font-plus-jakarta), sans-serif' }}
         >
           Vos emails. <br />
-          <span className="text-white/60 italic font-serif tracking-tight">Enfin parlons.</span>
+          <span className="text-white/60 italic font-serif tracking-tight">parlent enfin.</span>
         </motion.h1>
         
         {/* Subtitle */}
